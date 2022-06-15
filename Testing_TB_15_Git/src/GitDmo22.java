@@ -17,6 +17,8 @@ public class GitDmo22 {
 		System.out.println("#$^&*(((&&^%$$");
 		
 		System.out.println("oooooo");
+		
+		System.out.println("999999");
 
 	}
 
